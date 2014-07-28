@@ -1,5 +1,0 @@
-ajouter de help.txt
-
-pour test ok
-
-le proleme c et de creer certif SSH
